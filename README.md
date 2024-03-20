@@ -3,7 +3,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-agrawal6/Hospital-Management-System.git
+  git clone https://github.com/om-prakash-yadav/Hospital-Management-System.git
 ```
 
 Go to the project directory
@@ -51,9 +51,10 @@ This website is made for the user interaction only , where the user or patients 
 
 ## Credentials
 
-ID - 100
+ID - 1710948437533
 
-Password - masai
+
+Password - Test@1234
 
 ## Features
 
@@ -66,8 +67,6 @@ Password - masai
 Client - https://hms-user-side.netlify.app/
 
 Staff Dashboard - https://hm-system.netlify.app/
-
-Server - https://github.com/piyush-agrawal6/HMS-Backend
 
 ## Screenshots
 
@@ -97,15 +96,4 @@ Server - https://github.com/piyush-agrawal6/HMS-Backend
 
 ![31 01 2023_21 52 22_REC](https://user-images.githubusercontent.com/100460788/215819668-9e12eb1b-412f-4f27-b4ee-0eb807a19d2a.png)
 
-
-
-## Presentation
-
-Link - <a href="https://drive.google.com/file/d/1xwcSsjdl6QHnJ-JXl11moBAwSqSQFRjh/view?usp=sharing" alt="presentation">Drive</a>
-
-## Team Members / Contributors
-
-- [@Piyush Agrawal](https://github.com/piyush-agrawal6)
-- [@Rajendra Patel](https://github.com/centauricoder01)
-- [@Salman Ajani](https://github.com/SalmanAjani)
 
