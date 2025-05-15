@@ -62,12 +62,6 @@ Password - Test@1234
 - Getting reports 
 - Doctor Information
 
-## 🔗 Links
-
-Client - https://hms-user-side.netlify.app/
-
-Staff Dashboard - https://hm-system.netlify.app/
-
 ## Screenshots
 
 1.Home
