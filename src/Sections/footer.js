@@ -131,7 +131,7 @@ function Footer() {
                 <p className="copyright-text">
                   Copyright © 2023 
                   <a
-                    href="https://github.com/piyush-agrawal6"
+                    href="https://github.com/om-prakash-yadav"
                     className="text-secondary"
                     target="_blank"
                   >
